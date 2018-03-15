@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="../build/react.js"></script>
+  <script src="../build/react-dom.js"></script>
+  <script src="../build/browser.min.js"></script>
+</head>
+<body>
+<div id="example"></div>
+<script type="text/babel">
+  function NumberList(props){
+    const numbers = props.numbers;
+    const list = numbers.map((num,key)=>(
+        <li key={key.toString()}>{num}</li>
+    ))
+    console.log(list)
+    return <ul>{list}</ul>
+  }
+
+  const numbers = [1,2,3,4,5,6];
+  ReactDOM.render(
+    <NumberList numbers={numbers}/>,
+    document.getElementById('example')
+  )
+</script>
+</body>
+</html>
