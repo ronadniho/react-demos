@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8168dc0b-11d5-4bee-8ed2-5cb2a316d231" name="Default" comment="123" />
-    <list id="ff03e8be-c119-4b7b-ac09-330633e323e5" name="123" comment="">
+    <list default="true" id="8168dc0b-11d5-4bee-8ed2-5cb2a316d231" name="Default" comment="123">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -406,7 +404,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8168dc0b-11d5-4bee-8ed2-5cb2a316d231" name="Default" comment="" />
-      <changelist id="ff03e8be-c119-4b7b-ac09-330633e323e5" name="123" comment="" />
+      <changelist id="" name="123" comment="" />
       <created>1520822186708</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -415,7 +413,7 @@
       <workItem from="1520904847160" duration="9243000" />
       <workItem from="1520989956058" duration="13405000" />
       <workItem from="1521076288090" duration="2824000" />
-      <workItem from="1521092785163" duration="6466000" />
+      <workItem from="1521092785163" duration="6481000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1521091998923</created>
@@ -438,11 +436,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521098350047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="aa">
+      <created>1521102998926</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521102998926</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41071000" />
+    <option name="totallyTimeSpent" value="41086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="617" y="50" width="1187" height="990" extended-state="0" />
@@ -522,7 +527,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo" />
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
